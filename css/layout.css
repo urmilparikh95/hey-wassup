@@ -513,10 +513,11 @@ ul#nav li.current a { color: #F06000; }
 
 /* popup modal */
 .popup-modal {
-	max-width: 550px;
+	max-width: 360px;
 	background: #fff;
-	position: relative;
-	margin: 0 auto;
+  position: relative;
+  margin-left: 50px;
+  float: left;
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
 .popup-modal .description-box h4 {
