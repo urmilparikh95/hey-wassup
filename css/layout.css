@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -513,10 +513,10 @@ ul#nav li.current a { color: #F06000; }
 
 /* popup modal */
 .popup-modal {
-	max-width: 360px;
+	max-width: 330px;
 	background: #fff;
   position: relative;
-  margin-left: 50px;
+  margin-left: 30px;
   float: left;
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
